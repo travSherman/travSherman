@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Travis-Sherman
+- 👀 I’m interested in App development, A.I. algorithms, databases and crypto-Currencies
+- 🌱 I’m currently learning all of those things above.
+- 💞️ I’m looking to collaborate on all of things above as well.
+- 📫 How to reach me:
+    - LinkedIn: https://www.linkedin.com/in/travis-shermanmorehouse/
+    - Email: travis.sherman@morehouse.edu
+    - Instagram: travSherman
